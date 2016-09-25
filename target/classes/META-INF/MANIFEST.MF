@@ -1,10 +1,11 @@
 Manifest-Version: 1.0
-Implementation-Title: oauth-test
+Implementation-Title: springboot-security
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: felippepuhle
 Implementation-Vendor-Id: br.com.felippe
 Build-Jdk: 1.8.0_101
-Implementation-URL: http://projects.spring.io/spring-boot/oauth-test/
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-s
+ ecurity/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
